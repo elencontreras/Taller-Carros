@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Car App</string>
+    <string name="audi">Audi</string>
+    <string name="blanco">White</string>
+    <string name="chevrolet">Chevrolet</string>
+    <string name="color">Color</string>
+    <string name="error1">Please type License</string>
+    <string name="error2">Please type Price</string>
+    <string name="error3">This can\'t be zero</string>
+    <string name="guardar">Save</string>
+    <string name="kia">Kia</string>
+    <string name="limpiar">Clean</string>
+    <string name="listado">List Cars</string>
+    <string name="marca">Brand</string>
+    <string name="modelo">Model</string>
+    <string name="msjGuardar">Car succesfully registered</string>
+    <string name="placa">License</string>
+    <string name="precio">Price</string>
+    <string name="registrar_carro">Car Registrer</string>
+    <string name="rojo">Red</string>
+</resources>

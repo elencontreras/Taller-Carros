@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Carros</string>
+    <string name="registrar_carro">Registrar Carro</string>
+    <string name="placa">Placa</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="listado">Listar Carros</string>
+    <string name="kia">Kia</string>
+    <string name="chevrolet">Chevrolet</string>
+    <string name="audi">Audi</string>
+    <string name="rojo">Rojo</string>
+    <string name="blanco">Blanco</string>
+    <string name="msjGuardar">Carro registrado exitosamente</string>
+    <string name="error1">Por favor digitar placa</string>
+    <string name="error2">Por favor digitar precio</string>
+    <string name="error3">El precio no puede ser cero</string>
+
+
+
+    <string-array name="opciones">
+        <item>@string/registrar_carro</item>
+        <item>@string/listado</item>
+    </string-array>
+
+    <string-array name="marca">
+        <item>@string/kia</item>
+        <item>@string/chevrolet</item>
+        <item>@string/audi</item>
+    </string-array>
+
+    <string-array name="modelo">
+        <item>2008</item>
+        <item>2009</item>
+        <item>2015</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>@string/rojo</item>
+        <item>@string/blanco</item>
+    </string-array>
+
+</resources>
